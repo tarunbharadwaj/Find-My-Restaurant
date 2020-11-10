@@ -1,0 +1,58 @@
+.imageclass{
+    height:200px;
+    width:180px;
+    overflow: hidden;
+}
+.quickSearchContainer{
+    margin-left:115px;
+    margin-top:50px;;
+    float: left;
+}
+
+.quickSearchHeading{
+    color:darkturquoise;
+    font-size:50px;
+    font-weight:bold;
+    font-family:Poppins;
+    line-height: 1;
+    overflow: hidden;
+}
+
+.quickSearchSubHeading{
+    color:black;
+    font-size:30px;
+    font-weight: normal;
+    font-family: Poppins;
+}
+
+.tilecontainer{
+    width:380px;
+    height:200px;
+    box-shadow: 3px 5px 15px yellow;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px;
+    background: linear-gradient(to bottom, white , cyan);
+}
+
+.tileComponent1{
+    width:50%;
+    float: left;
+}
+
+.tileComponent2{
+    width:50%;
+    float: left;
+}
+
+.componentHeading{
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+    margin-top:25px;
+}
+
+.componentSubHeading{
+    color:red;
+    font-size:18px;
+}
